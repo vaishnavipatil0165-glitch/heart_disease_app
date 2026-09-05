@@ -11,6 +11,7 @@ This project uses a trained Machine Learning model to analyze patient-related in
 The trained model is integrated into a Streamlit web application, where users can enter their details and receive a prediction.
 
 🎯 Objectives
+
 Build a Heart Disease Prediction Machine Learning model.
 Use the KNN (K-Nearest Neighbors) algorithm for prediction.
 Preprocess and scale input data.
@@ -19,6 +20,7 @@ Allow users to enter patient health information.
 Display the predicted heart disease risk.
 
 🖥️ Application Features
+
 👤 Age selection
 🚻 Gender selection
 ❤️ Chest pain type
@@ -35,6 +37,7 @@ Display the predicted heart disease risk.
 ⚠️ High-risk result
 
 🛠️ Technologies Used
+
 Technology	Purpose
 Python	Programming language
 Pandas	Data processing
